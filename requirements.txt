@@ -1,0 +1,8 @@
+nltk==3.7
+yake==0.4.8
+pandas==1.4.1
+boilerpy3==1.0.6
+Scrapy==2.6.1
+itemadapter==0.4.0
+validators==0.18.2
+Flask==2.0.3

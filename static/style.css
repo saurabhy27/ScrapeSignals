@@ -1,0 +1,16 @@
+body {
+  background-color: "#FF8";
+}
+h1 {
+  text-align: center;
+}
+h2{
+    text-align: center;
+}
+p {
+  color: red;
+}
+#form-div{
+    text-align: center;
+    background-color: "#FF8" !important;
+}
